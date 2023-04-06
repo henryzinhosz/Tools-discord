@@ -143,7 +143,7 @@ function Main() {
          ${Q14}
          ${Q15}
 
-                                                        ${("[!] Posse de Cypher Security".green)}
+                                                       
                                                         ${("[C] Criado por Henry".green)}
          `.yellow
     );
